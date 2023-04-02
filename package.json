@@ -1,0 +1,19 @@
+{
+  "name": "docs.research.helper",
+  "version": "0.0.1",
+  "description": "Documentation for Research Helper",
+  "main": "index.js",
+  "authors": {
+    "name": "Hunt",
+    "email": ""
+  },
+  "repository": "/docs.research.helper",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
