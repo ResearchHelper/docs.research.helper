@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c09bde68","path":"/zh_CN/","title":"研究小助手","lang":"简体中文","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"zh_CN/index.md"}');export{t as data};
