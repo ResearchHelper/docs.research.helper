@@ -1,5 +1,5 @@
 import { searchPlugin } from "@vuepress/plugin-search";
-import { defineUserConfig } from "vuepress";
+import { defaultTheme, defineUserConfig } from "vuepress";
 
 export default defineUserConfig({
   base: "/docs.research.helper/",
@@ -15,6 +15,26 @@ export default defineUserConfig({
       description: "研究小助手开发文档",
     },
   },
+  theme: defaultTheme({
+    logo: "/images/logo.png",
+    repo: "https://github.com/ResearchHelper/research-helper",
+    navbar: [
+      "/guide/user/README.md",
+      "/guide/developer/introduction.md"
+    ],
+    sidebar: {
+      "/guide/user/": [],
+      "/guide/developer/": [
+        "introduction",
+        "library-page",
+        "pdf-reader",
+        "note-editor",
+        "graph-view",
+        "layout-control",
+        "interaction"
+      ]
+    }
+  }),
 
   plugins: [
     searchPlugin({
