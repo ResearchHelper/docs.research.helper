@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4d0c2b64","path":"/zh_CN/guide/developer/","title":"开发者手册","lang":"简体中文","frontmatter":{},"headers":[],"git":{"updatedTime":1683287089000,"contributors":[{"name":"huntfeng","email":"huntfeng@pop-os.localdomain","commits":1}]},"filePathRelative":"zh_CN/guide/developer/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as r,R as e,t as a}from"./framework-5866ffd3.js";const n={},c=e("h1",{id:"note-editor",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#note-editor","aria-hidden":"true"},"#"),a(" Note Editor")],-1),d=[c];function s(i,_){return o(),r("div",null,d)}const l=t(n,[["render",s],["__file","note-editor.html.vue"]]);export{l as default};

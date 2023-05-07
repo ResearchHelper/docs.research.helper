@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-66b3ccb2","path":"/guide/developer/library-page.html","title":"Library","lang":"English","frontmatter":{},"headers":[],"git":{"updatedTime":1683287089000,"contributors":[{"name":"huntfeng","email":"huntfeng@pop-os.localdomain","commits":1}]},"filePathRelative":"guide/developer/library-page.md"}');export{e as data};

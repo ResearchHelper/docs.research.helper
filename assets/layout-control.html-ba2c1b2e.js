@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5d22442e","path":"/guide/developer/layout-control.html","title":"Layout","lang":"English","frontmatter":{},"headers":[],"git":{"updatedTime":1683287089000,"contributors":[{"name":"huntfeng","email":"huntfeng@pop-os.localdomain","commits":1}]},"filePathRelative":"guide/developer/layout-control.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as a,R as e,t as r}from"./framework-5866ffd3.js";const c={},n=e("h1",{id:"layout",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#layout","aria-hidden":"true"},"#"),r(" Layout")],-1),s=[n];function l(_,d){return o(),a("div",null,s)}const u=t(c,[["render",l],["__file","layout-control.html.vue"]]);export{u as default};

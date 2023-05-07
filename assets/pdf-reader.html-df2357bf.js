@@ -1,0 +1,1 @@
+import{_ as r,p as a,q as t,R as e,t as d}from"./framework-5866ffd3.js";const c={},s=e("h1",{id:"pdf-reader",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#pdf-reader","aria-hidden":"true"},"#"),d(" PDF Reader")],-1),o=[s];function n(_,f){return a(),t("div",null,o)}const h=r(c,[["render",n],["__file","pdf-reader.html.vue"]]);export{h as default};

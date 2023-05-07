@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-444c1038","path":"/guide/developer/graph-view.html","title":"Graph View","lang":"English","frontmatter":{},"headers":[],"git":{"updatedTime":1683287089000,"contributors":[{"name":"huntfeng","email":"huntfeng@pop-os.localdomain","commits":1}]},"filePathRelative":"guide/developer/graph-view.md"}');export{e as data};

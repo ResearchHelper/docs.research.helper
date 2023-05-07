@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2fb780d0","path":"/guide/developer/interaction.html","title":"Interactions between Components","lang":"English","frontmatter":{},"headers":[],"git":{"updatedTime":1683287089000,"contributors":[{"name":"huntfeng","email":"huntfeng@pop-os.localdomain","commits":1}]},"filePathRelative":"guide/developer/interaction.md"}');export{e as data};
