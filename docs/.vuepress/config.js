@@ -18,12 +18,9 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: "/images/logo.png",
     repo: "https://github.com/ResearchHelper/research-helper",
-    navbar: [
-      "/guide/user/README.md",
-      "/guide/developer/introduction.md"
-    ],
+    navbar: ["/guide/user/introduction.md", "/guide/developer/introduction.md"],
     sidebar: {
-      "/guide/user/": [],
+      "/guide/user/": ["introduction"],
       "/guide/developer/": [
         "introduction",
         "library-page",
@@ -31,9 +28,9 @@ export default defineUserConfig({
         "note-editor",
         "graph-view",
         "layout-control",
-        "interaction"
-      ]
-    }
+        "interaction",
+      ],
+    },
   }),
 
   plugins: [

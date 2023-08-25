@@ -9,8 +9,8 @@
   "private": false,
   "scripts": {
     "format": "yarn prettier --write .",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
     "predeploy": "yarn docs:build",
     "deploy": "gh-pages -d docs/.vuepress/dist"
   },

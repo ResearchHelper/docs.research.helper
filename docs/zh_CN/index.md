@@ -8,10 +8,10 @@ actions:
       link: https://github.com/ResearchHelper/research-helper/releases
       type: primary
     - text: 用户手册
-      link: /guide/user
+      link: /guide/user/introduction.md
       type: secondary
     - text: 开发者手册
-      link: /guide/developer
+      link: "/guide/developer/introduction.md"
       type: secondary
 features:
     - title: 内置PDF阅读器

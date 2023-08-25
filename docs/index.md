@@ -8,10 +8,11 @@ actions:
       link: https://github.com/ResearchHelper/research-helper/releases
       type: primary
     - text: User Guide
-      link: /guide/user
+      link: /guide/user/introduction.md
       type: secondary
     - text: Developer Guide
-      link: /guide/developer
+      link: "/guide/developer/introduction.md"
+
       type: secondary
 features:
     - title: Built-in PDF Reader
